@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roselller
 - 👀 I’m interested in Data Analysis, Cyber Security and Development
-- 🌱 I’m currently learning in an Information Technology course
+- 🌱 I’m currently studying Information Technology at Ngee Ann Polytechnic Singapore
 
 <!---
 roselller/roselller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
