@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roselller
-- 👀 I’m interested in Data Analysis, Cyber Security and Development
+- 👀 I’m interested in Data Analysis, Automation and Development
 - 🌱 I’m currently studying Information Technology at Ngee Ann Polytechnic Singapore
 
 <!---
